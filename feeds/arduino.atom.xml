@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tomas' drops</title><link href="https://tschertel.github.io/" rel="alternate"></link><link href="https://tschertel.github.io/feeds/arduino.atom.xml" rel="self"></link><id>https://tschertel.github.io/</id><updated>2010-12-03T10:20:00-02:00</updated><entry><title>Meu mini carro</title><link href="https://tschertel.github.io/posts/2010/Dec/03/meu-mini-carro/" rel="alternate"></link><published>2010-12-03T10:20:00-02:00</published><author><name>Tomas Schertel</name></author><id>tag:tschertel.github.io,2010-12-03:posts/2010/Dec/03/meu-mini-carro/</id><summary type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/python&lt;/span&gt;
+&lt;span class="c1"&gt;# Code goes here ...&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;The triple-colon syntax will *not* show line numbers.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;There are two ways to specify the identifier:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/python&lt;/span&gt;
+&lt;span class="c1"&gt;# Code goes here ...&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;The triple-colon syntax will *not* show line numbers.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;To display line numbers, use a path-less shebang instead of colons:&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;The path-less shebang syntax *will* show line numbers.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;Exemplo de código para arduino, hospedado no Github' Gist:&lt;/p&gt;
+&lt;script src="https://gist.github.com/tschertel/7611e0b5308fd96130fdc1bbae46b0a3.js"&gt;&lt;/script&gt;
+
+&lt;p&gt;Espero que tenham gostado. Até a próxima.&lt;/p&gt;</summary><category term="RC"></category><category term="carro"></category></entry><entry><title>My super title</title><link href="https://tschertel.github.io/posts/2010/Dec/03/my-super-title/" rel="alternate"></link><published>2010-12-03T10:20:00-02:00</published><author><name>Tomas Schertel</name></author><id>tag:tschertel.github.io,2010-12-03:posts/2010/Dec/03/my-super-title/</id><summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan nulla quis molestie porttitor. Sed semper gravida justo quis facilisis. In hac habitasse platea dictumst. Mauris ex felis, rutrum at sodales et, accumsan et ex. In luctus ante id sapien luctus viverra. Proin sit amet nunc vel lorem consectetur mollis. Vivamus erat quam, blandit sed lacus auctor, posuere viverra magna. Nunc ac sapien quam. Proin sed nisl augue. Integer sed magna ullamcorper, blandit nulla at, aliquet orci. Proin fringilla pharetra fringilla. Cras tempus imperdiet nisi at tempus. Integer at lorem efficitur lacus vulputate molestie vitae eu tortor.&lt;/p&gt;
+&lt;p&gt;Praesent egestas sapien dolor, non laoreet felis pulvinar id. Donec ac eros lorem. Nullam scelerisque volutpat quam vitae placerat. Donec at quam quis libero aliquam rhoncus. Curabitur porta libero sit amet eros fermentum vestibulum. Nam nec felis rutrum, tristique nibh vitae, mollis massa. Suspendisse cursus vehicula ex at rhoncus.&lt;/p&gt;
+&lt;p&gt;Ut non nulla pharetra, congue felis ac, egestas nibh. Proin fermentum maximus sollicitudin. Morbi quis felis pellentesque, euismod neque ut, ultrices urna. Suspendisse sed blandit tortor. Sed sed odio id urna cursus ullamcorper et sed arcu. Vestibulum gravida felis nec semper ultrices. Cras rhoncus ligula magna, in interdum orci facilisis in. Cras auctor iaculis luctus. Nulla eu scelerisque ante.&lt;/p&gt;
+&lt;p&gt;Nam dapibus eros libero, et convallis urna lacinia pulvinar. Ut iaculis est sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed non ligula eu turpis placerat interdum. Morbi vehicula lacus eget lorem semper lobortis. Duis aliquet viverra egestas. Cras vel mi nec ligula bibendum tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et metus pharetra, euismod quam vitae, hendrerit erat.&lt;/p&gt;
+&lt;p&gt;Cras volutpat rhoncus enim a imperdiet. Sed a sapien vel arcu lobortis pharetra. Sed sollicitudin vel libero vel semper. Curabitur placerat sem et turpis gravida pellentesque. Integer in tortor at ex ullamcorper pharetra. Vestibulum placerat ligula ac neque porttitor pharetra. Donec velit purus, viverra et suscipit vitae, euismod nec felis. Donec sit amet justo ligula. Phasellus velit nisl, porta ut mi in, sagittis imperdiet dui.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
